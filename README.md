@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/view-MY%20NOTEBOOK-7719AA?style=for-the-badge&logo=notion" alt="My notes" />
   </a>
 </p>
-
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=yazdipour&show_icons=true" /></p>
 <!--
 ### Hi there 👋
 
@@ -25,5 +25,5 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=yazdipour&show_icons=true" /></p>
+
 -->
