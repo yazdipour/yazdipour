@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://gist.githubusercontent.com/yazdipour/91dea3fdf97dba702ed89a6a1b9a98a7/raw/8c4870d4fda64c6f8dbf9d12d579d1ad66c3f360/rainbowcat.gif" />
+    <img src="https://media.tenor.com/bdHtTkZFGTIAAAAC/developers.gif" alt="Developers">
 </p>
 
 <!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=yazdipour&show_icons=true" /></p> -->
