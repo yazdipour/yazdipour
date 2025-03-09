@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/view-my Resume-orange?style=for-the-badge&logo=monogram" />
   </a>
   <br>
-  <a target="_blank" href="http://yazdipour.github.io/notes/">
+<!--   <a target="_blank" href="http://yazdipour.github.io/notes/">
     <img src="https://img.shields.io/badge/view-MY%20NOTEBOOK-7719AA?style=for-the-badge&logo=notion" alt="My notes" />
-  </a>
+  </a> -->
 </p>
 <p align="center">
     <img src="https://media.tenor.com/bdHtTkZFGTIAAAAC/developers.gif" alt="Developers">
